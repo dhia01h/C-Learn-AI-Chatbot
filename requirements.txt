@@ -8,7 +8,6 @@ easyocr
 langdetect
 openai
 aiohttp
-audioop
 psycopg2-binary
 sqlalchemy 
 asyncpg
