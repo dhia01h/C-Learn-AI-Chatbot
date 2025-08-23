@@ -11,4 +11,4 @@ aiohttp
 psycopg2-binary
 sqlalchemy 
 asyncpg
-pip install -U langchain-communit
+langchain-community
