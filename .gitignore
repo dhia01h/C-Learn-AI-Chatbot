@@ -1,0 +1,11 @@
+# Environnements
+.env
+__pycache__/
+*.pyc
+
+# Base de données
+db/
+
+# Fichiers temporaires
+*.log
+*.sqlite3

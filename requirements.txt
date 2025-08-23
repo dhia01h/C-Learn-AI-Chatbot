@@ -1,0 +1,14 @@
+langchain
+chromadb
+sentence-transformers
+pymupdf
+python-dotenv
+chainlit
+easyocr
+langdetect
+openai
+aiohttp
+audioop
+psycopg2-binary
+sqlalchemy 
+asyncpg

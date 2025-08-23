@@ -1,0 +1,23 @@
+.chat-container {
+    background-color: #e6f3ff;
+    padding: 10px;
+
+}
+a.watermark,img[alt="logo"].logo, button#readme-button, .css-18b5fc5 > div:first-child, div.css-hhc1wx img, div.css-14k6mw7 img,
+div.css-1lz8su1 img, div.css-1ow8pi5 img, li.css-1qe6x04, hr.css-1a6az2d, .css-1705j0v > a > p, .css-1705j0v > a > svg,
+.css-r8u8y9 .css-9de4o3{display:none!important}
+
+
+/* Surcharge spécifique pour l'image du login */
+.relative.hidden.bg-muted.lg\:block.overflow-hidden img {
+  object-fit: fill !important;
+  -o-object-fit: fill !important;
+}
+
+.bg-primary {
+    background-color: hsl(0deg 98.63% 41.94%) !important;
+}
+
+img[alt="Avatar for Esprit_Bot"] {
+  content: url("/public/avatars/my_assistant.png") !important;
+}
